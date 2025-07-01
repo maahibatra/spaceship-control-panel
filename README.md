@@ -6,13 +6,13 @@ now you can control your spaceship without ever getting up from the couch!
 
 ## screenshots
 
-schematics:
+### schematics:
 ![screenshot of schematics](image-2.png)
 
-pcb board:
+### pcb board:
 ![screenshot of pcb board](image.png)
 
-3d view:
+### 3d view:
 ![screenshot of 3d view](image-1.png)
 
 ## materials used:
