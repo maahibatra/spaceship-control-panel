@@ -4,6 +4,13 @@ have you ever had a spaceship, but were too lazy to go to the control room?<br>
 introducing the all new, amazingest spaceship control panel - **HANDHELD!!!**<br>
 now you can control your spaceship without ever getting up from the couch!<br>
 
+## features
+
+- you can start and stop the engine.
+- shields to defend your spaceship. no one's getting through that.
+- turn comms on and off. sometimes you just dont wanna communicate!
+- LASERS!!! amazing for fending of enemies.
+
 ## screenshots
 
 ### schematics:
@@ -15,7 +22,7 @@ now you can control your spaceship without ever getting up from the couch!<br>
 ### 3d view:
 ![screenshot of 3d view](screenshots/3d.png)
 
-## materials used:
+## materials used
 
 1x CR2032 battery cell<br>
 4x 6mm push buttons<br>
@@ -24,6 +31,7 @@ now you can control your spaceship without ever getting up from the couch!<br>
 1x 2N3904 transistor<br>
 1x mini motor disc
 
-## my slack:
+## my slack
+
 - username: maahi
 - id: U07UL1VLZQB
