@@ -23,3 +23,7 @@ now you can control your spaceship without ever getting up from the couch!<br>
 3x 5mm leds<br>
 1x 2N3904 transistor<br>
 1x mini motor disc
+
+## my slack:
+- username: maahi
+- id: U07UL1VLZQB
